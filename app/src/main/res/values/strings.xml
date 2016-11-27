@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Card</string>
+    <string name="title_activity_about">About</string>
+    <string name="desc">Arief Nur Prakoso</string>
+    <string name="identitas">NIM: 21120114120008</string>
+    <string name="ident">Seorang mahasiswa semester 5 Jurusan Sistem Komputer Undip yang suka dengan segala hal yang berhubungan dengan IT </string>
+</resources>
